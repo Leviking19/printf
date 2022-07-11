@@ -1,1 +1,1 @@
-readme for the tasks to be done in the printf project, in collaboration with Blessing(beebee)
+readme for the tasks to be done in the printf project, in collaboration with Blesing(beebee)
